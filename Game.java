@@ -12,7 +12,7 @@ public class Game {
             switch (a) {
                 case 0:
                     line = board[0] + board[1] + board[2];
-                    break;5
+                    break;
                 case 1:
                     line = board[3] + board[4] + board[5];
                     break;
